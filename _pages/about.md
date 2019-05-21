@@ -8,7 +8,9 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Even if we stopped producing all greenhouse gasses today, global average temperatures will keep rising and climate disasters will keep becoming more severe and more frequent. Will we overcome greed and stupidity, or is it time to embrace our imminent future: centuries of hell.</p>
+<p><img src="assets/images/hell.jpg" alt="hell"></p>
+
+<p>Even if we stopped producing all greenhouse gasses today, global average temperatures will keep rising and climate disasters will continue to become more severe and more frequent. Will we overcome greed and stupidity? Or is it time to embrace our imminent future: centuries of hell.</p>
 
 </div>
 
