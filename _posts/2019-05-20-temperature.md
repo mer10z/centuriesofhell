@@ -5,7 +5,7 @@ categories: [ weather ]
 tags: [floods]
 image: assets/images/temperature.jpg
 description: "America floods."
-featured: true
+featured: false
 comments: true
 ---
 
