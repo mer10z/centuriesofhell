@@ -5,7 +5,7 @@ categories: [ "climate change" ]
 tags: [ KillerHeat ]
 image: assets/images/us-killer-heat.jpg
 description: "A visualization of killer heat in the US"
-featured: true
+featured: false
 comments: true
 ---
 
