@@ -5,7 +5,7 @@ categories: [ "climate change" ]
 tags: [ climatechange ]
 image: assets/images/flag-burning.jpg
 description: "According to a new army study, the US military may collapse in 20 years if we don't prepare for climate change."
-featured: true
+featured: false
 comments: true
 ---
 
